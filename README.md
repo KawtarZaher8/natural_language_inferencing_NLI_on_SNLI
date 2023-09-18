@@ -1,4 +1,4 @@
-﻿% Natural Language Inference on Stanford NLI corpus
+﻿# Natural Language Inference on Stanford NLI corpus
 
 This projects aims at finetuning a BERT model to perform a NLI task on the SNLI dataset.
 
